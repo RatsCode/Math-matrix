@@ -1,1 +1,1 @@
-just add as library and use
+Just add as usual and use
